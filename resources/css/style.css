@@ -271,7 +271,7 @@ footer{
 /* ---------------------------------------------- */
 /*             SCREEN WIDTH < 600px               */
 /* ---------------------------------------------- */
-@media screen and (max-width: 600px){
+@media screen and (max-width: 450px){
     .latest-report{
         display: flex;
         flex-direction: column;
