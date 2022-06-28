@@ -6,4 +6,3 @@
 <h4> 4. Search Bar functionality is implemented wherein the user can customize the visualisation portrayed on <br>
    the screen by selecting amongst the country names.
    
-    ![Alt Text]()
