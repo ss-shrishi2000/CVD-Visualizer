@@ -13,6 +13,6 @@
     ![This is an image](https://github.com/ss-shrishi2000/CVD-Visualizer/blob/master/cv-2.png)
     <br/>
     
-   <h3> Live Website Deployed At :- https://covid-visualisation-2019.netlify.app/  </h3>
+   <h4> Live Website Deployed At :- https://covid-visualisation-2019.netlify.app/  </h4>
   
    
