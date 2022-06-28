@@ -271,7 +271,11 @@ footer{
 /* ---------------------------------------------- */
 /*             SCREEN WIDTH < 600px               */
 /* ---------------------------------------------- */
-@media screen and (max-width: 450px){
+ @media only screen and (max-width: 600px) {
+        /* For mobile phones: */
+        [class*="search-country hide, search-box, total-cases, chart, recovered, deaths"] {
+          width: 100%;
+        }
     .latest-report{
         display: flex;
         flex-direction: column;
