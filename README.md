@@ -6,3 +6,9 @@
 <h4> 4. Search Bar functionality is implemented wherein the user can customize the visualisation portrayed on <br>
    the screen by selecting amongst the country names.
    
+   <br/>
+   
+
+    ![alt text](https://github.com/ss-shrishi2000/CVD-Visualizer/blob/master/cv-1.png)
+  
+   
